@@ -1,5 +1,5 @@
 xhtml2pdf
-Django==4.1.6
+Django==3.2.5
 django-widget-tweaks==1.4.8
 sqlparse==0.4.3
 asgiref==3.6.0
